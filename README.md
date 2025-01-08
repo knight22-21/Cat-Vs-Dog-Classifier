@@ -1,5 +1,5 @@
 
-# Dog vs Cat Classification
+# Cat Vs Dog Classification
 
 This repository contains a solution for the classic **Dog vs Cat Classification** problem using deep learning techniques. The goal is to classify images of dogs and cats with high accuracy using **TensorFlow** and **Keras**.
 
